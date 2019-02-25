@@ -1,0 +1,6 @@
+use_frameworks!
+target 'KRDeviceInfo_Tests' do
+  pod 'KRDeviceInfo', :path => '../'
+  
+  
+end
