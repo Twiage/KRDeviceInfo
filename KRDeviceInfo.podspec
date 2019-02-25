@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KRDeviceInfo'
-  s.version          = '0.1.0'
+  s.version          = '1.0.1'
   s.summary          = 'Library to determine screen size'
 
   s.homepage         = 'https://github.com/twiage/KRDeviceInfo'

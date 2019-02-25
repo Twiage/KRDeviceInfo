@@ -31,7 +31,6 @@
 		02D73726C16C65C134A5429592E8FA70 /* Pods-KRDeviceInfo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-KRDeviceInfo_Tests-dummy.m"; sourceTree = "<group>"; };
 		04EDF9F92114317D813A560AB6D02E83 /* KRDeviceInfo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = KRDeviceInfo.modulemap; sourceTree = "<group>"; };
 		1E4602B699F7B65BE3AC5EC4478424D2 /* KRDeviceInfo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KRDeviceInfo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2A1D1F2A09AB9CF5CE6DC4EC6A3914D7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		34CD882A8A6E5865B44729E7D15A352E /* Pods-KRDeviceInfo_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-KRDeviceInfo_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3751A7E11A9E995BCB96D7E2A44BAE82 /* Pods_KRDeviceInfo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KRDeviceInfo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		397D01A271BE68DCD51F3A82348CC2C4 /* KRDeviceInfo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = KRDeviceInfo.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -121,7 +120,6 @@
 			children = (
 				397D01A271BE68DCD51F3A82348CC2C4 /* KRDeviceInfo.podspec */,
 				BEEA3BCF41A161B45B0DE9FD0F455264 /* LICENSE */,
-				2A1D1F2A09AB9CF5CE6DC4EC6A3914D7 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
