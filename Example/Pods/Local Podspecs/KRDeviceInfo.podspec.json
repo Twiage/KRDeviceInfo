@@ -1,0 +1,22 @@
+{
+  "name": "KRDeviceInfo",
+  "version": "0.1.0",
+  "summary": "A short description of KRDeviceInfo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ilyaeremin/KRDeviceInfo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ilyaeremin": "ilya.eremin@flatstack.com"
+  },
+  "source": {
+    "git": "https://github.com/ilyaeremin/KRDeviceInfo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KRDeviceInfo/Classes/**/*"
+}

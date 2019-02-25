@@ -14,13 +14,13 @@
 /* Begin PBXFileReference section */
 		068968C7AB0B9829E0801F1F /* Pods-KRDeviceInfo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KRDeviceInfo_Tests.release.xcconfig"; path = "Target Support Files/Pods-KRDeviceInfo_Tests/Pods-KRDeviceInfo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		355FBE22558DE3BFD57EE926 /* Pods_KRDeviceInfo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KRDeviceInfo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		49889F637337E378047758F4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		49889F637337E378047758F4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* KRDeviceInfo_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KRDeviceInfo_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		7B90FC0164A6FA23AADAB1EF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7B90FC0164A6FA23AADAB1EF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		87C93D6FF68826D6AA878FDC /* Pods-KRDeviceInfo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KRDeviceInfo_Tests.debug.xcconfig"; path = "Target Support Files/Pods-KRDeviceInfo_Tests/Pods-KRDeviceInfo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C205C413B978DBACE833E48B /* KRDeviceInfo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = KRDeviceInfo.podspec; path = ../KRDeviceInfo.podspec; sourceTree = "<group>"; };
+		C205C413B978DBACE833E48B /* KRDeviceInfo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KRDeviceInfo.podspec; path = ../KRDeviceInfo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +87,6 @@
 				87C93D6FF68826D6AA878FDC /* Pods-KRDeviceInfo_Tests.debug.xcconfig */,
 				068968C7AB0B9829E0801F1F /* Pods-KRDeviceInfo_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -131,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

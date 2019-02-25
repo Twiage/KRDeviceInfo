@@ -1,0 +1,16 @@
+PODS:
+  - KRDeviceInfo (0.1.0)
+
+DEPENDENCIES:
+  - KRDeviceInfo (from `../`)
+
+EXTERNAL SOURCES:
+  KRDeviceInfo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KRDeviceInfo: c94dfc9f8c37504b3e7e2c406b3bbb209dee6a7e
+
+PODFILE CHECKSUM: a1728407471340d2a613467c15956694b3f52751
+
+COCOAPODS: 1.6.1
